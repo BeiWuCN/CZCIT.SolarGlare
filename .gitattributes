@@ -1,0 +1,5 @@
+*.shader linguist-language=ShaderLab
+*.shader linguist-detectable=true
+*.hlsl linguist-language=HLSL
+*.cginc linguist-language=Cg
+*.cginc linguist-detectable=true
